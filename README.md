@@ -23,7 +23,7 @@ The company have recently appointed a new CEO and his mandate is to accelerate r
 The aim of this project is to turn raw historical data into concise decision-making that will guide the CEO towards revenue growth and boost product performance. 
 
 ### Objective
-Analyze the historica sales data by utilizing data analysis tools to uncover patterns,trends and root causes that directly influence revenue and product success.
+Analyze the historical sales data by utilizing data analysis tools to uncover patterns,trends and root causes that directly influence revenue and product success.
 
 ### Key Findings
 
