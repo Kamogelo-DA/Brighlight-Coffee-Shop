@@ -35,9 +35,10 @@ Analyze the historical sales data by utilizing data analysis tools to uncover pa
 Sales Data: The primary dataset used for this analysis is the "   " file,containing detailed information about each sales made by the company
 
 ### Tools Used
-- Miro(Project Planning
-- Snowflake(Data Wrangling)
-- Excel (Data Visualization)
+- Miro for Project Planning
+- Snowflake for Data Wrangling
+- Microsoft Excel for Data Visualization
+- Canva for presentaion
 
 ### Exploratory Data Analysis
 I explored the sales data to answer key questions such as:
