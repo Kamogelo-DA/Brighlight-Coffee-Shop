@@ -31,8 +31,6 @@ Analyze the historical sales data by utilizing data analysis tools to uncover pa
 - The revenue difference of both store locations is sitting below 1% therefore this suggest a consistent customer engagement.
 
 
-
-
 ### Recommendations
 - Introduce delivery services for nearby locations
 - Run targeted promotions on Tuesday, Wednesdays and Saturdays as these are the days with the lowest transaction volumes.
@@ -40,7 +38,7 @@ Analyze the historical sales data by utilizing data analysis tools to uncover pa
 
 
 ### Data Source
-Sales Data: The primary dataset used for this analysis is the "   " file,containing detailed information about each sales made by the company
+Sales Data: The primary dataset used for this analysis is the "Bright Coffee Shop Analysis.xlsx" file,containing detailed information about each sales made by the company
 
 ### Tools Used
 - Miro for Project Planning
