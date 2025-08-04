@@ -26,9 +26,17 @@ The aim of this project is to turn raw historical data into concise decision-mak
 Analyze the historical sales data by utilizing data analysis tools to uncover patterns,trends and root causes that directly influence revenue and product success.
 
 ### Key Findings
+- The total revenue for the repoting period is split almost equally across all three coffee shop locations.
+- Based on our analysis it is evident that there is no dominant or underperforming store based on revenue.
+- The revenue difference of both store locations is sitting below 1% therefore this suggest a consistent customer engagement.
+
+
 
 
 ### Recommendations
+- Introduce delivery services for nearby locations
+- Run targeted promotions on Tuesday, Wednesdays and Saturdays as these are the days with the lowest transaction volumes.
+- Monitor customer behaviour to offer personilized promotions.
 
 
 ### Data Source
