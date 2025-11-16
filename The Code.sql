@@ -1,6 +1,6 @@
 --This a code for coffee shop analysis
 
---Test 2 
+--Test 2 done
 
 SELECT*FROM transactions.sales.coffee_shop;
 
