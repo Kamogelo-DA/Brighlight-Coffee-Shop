@@ -1,5 +1,7 @@
 --This a code for coffee shop analysis
 
+--Test 2 
+
 SELECT*FROM transactions.sales.coffee_shop;
 
  SELECT DISTINCT product_category,product_type
